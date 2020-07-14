@@ -7,4 +7,4 @@ Built following the tutorial at https://blog.bitsrc.io/build-a-login-auth-app-wi
 ## 2.0 Changes:
     Replaced Class components with Functional components
     Replaced CSS with Material UI
-    Added password reset feature
+    Added protected route example
