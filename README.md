@@ -7,5 +7,6 @@ Built following the tutorial at https://blog.bitsrc.io/build-a-login-auth-app-wi
 
 Customizations:
     -Replaced Class components with Functional components
-    -Replaced Redux with Context
+    <!-- -Replaced Redux with Context -->
     -Replaced CSS with Material UI
+    -Added password reset feature
